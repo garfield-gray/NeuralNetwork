@@ -3,3 +3,5 @@ C23: https://colab.research.google.com/drive/1dY2Sp8pEIi8gJOj8lSNipVacNirmMPdj?u
 PCA : https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
 
 C24: https://colab.research.google.com/drive/1dY2Sp8pEIi8gJOj8lSNipVacNirmMPdj?usp=sharing 
+
+Whiteboard: 
